@@ -1,0 +1,73 @@
+body {
+	font-size: 12px;
+	color: black ;
+	font-family: verdana, sans-serif;
+	background: white;
+	text-decoration: none;
+	text-align: auto;
+	border-top: 8px solid;
+	border-bottom: 8px solid;
+
+	
+} 
+
+a { 
+	color: black;
+	 }
+
+hr { 
+	border-top: 2px solid;
+	border-left: none;
+	border-right: none;
+	border-bottom: none;
+	padding: 10px; 
+}
+
+
+header { text-align: center;
+
+}
+
+img {
+	border: 2px solid;
+	padding: 10px;
+	margin: 15px;
+}
+
+h1 {
+	text-transform: uppercase;
+	font-stretch: semi-expanded;
+}
+
+h3 {
+	text-transform: uppercase;
+}
+
+.profile_pic {
+
+	border: 2px solid;
+	padding: 10px;
+	align-content: center;
+	height: 150px;
+	width: 150px;
+	
+
+}
+
+
+.links {
+	font-size: 18px;
+	font-weight: bold;
+	text-decoration: none;
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 5px;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.italic {
+	font-style: italic;
+}
